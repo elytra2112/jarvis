@@ -8,3 +8,4 @@ chuck_norris_api_key = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com
 bando_radio_api_key ="https://bando-radio-api.p.rapidapi.com/stations/bycountry/Austria"
 
 nvidia_api_key = "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"
+ groq_api_key = "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"
