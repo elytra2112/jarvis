@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large/generated files
+*.bin
+*.safetensors
+*.gguf
+
+# RAG/vector databases
+chroma/
+chroma_db/
+vectorstore/
